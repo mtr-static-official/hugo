@@ -1,27 +1,11 @@
-# Hugo Example
-
-This directory is a brief example of a [Hugo](https://gohugo.io/) app that can be deployed with Vercel and zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Hugo project with Vercel.
-
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/hugo)
 
 _Live Example: https://hugo.now-examples.now.sh_
 
-### How We Created This Example
+### Hosted By Vercel | 托管于Vercel
 
-To get started with Hugo for deployment with Vercel, you can use the [Hugo CLI](https://gohugo.io/commands/) to initialize the project:
+要开始使用Hugo进行Vercel部署，可以使用[Hugo CLI](https://gohugo.io/commands/) 初始化项目：
 
 ```shell
 $ hugo new site project-name
-```
-
-### Deploying From Your Terminal
-
-You can deploy your new Hugo project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
 ```

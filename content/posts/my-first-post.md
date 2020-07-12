@@ -1,7 +1,7 @@
 ---
-title: 'My First Post'
-date: 2019-07-18T17:18:05+01:00
+title: 'MTR的闲言杂语正式开站'
+date: 2020-07-12T17:18:05+08:00
 draft: false
 ---
 
-# Hugo on Vercel
+# 感谢
